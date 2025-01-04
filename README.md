@@ -2,8 +2,11 @@
 
 
 Name:PUNITH KUMAR D N 
+
 Company:CODTECH IT SOULTIONS
+
 INTERN ID:CT6WDS2490
+
 Domain:DATA SCIENCE
 
 OVERVIEW OF THE PROJECT
@@ -38,14 +41,17 @@ This type of project often involves collaboration between data scientists, healt
 
 OVERVIEW OF THE PROJECT
 
+![Screenshot (9)](https://github.com/user-attachments/assets/3a8ad738-20fc-4a0a-bad1-e429f463c9b8)
+
+
+
+
+
+
+
+
+
 ![Screenshot (10)](https://github.com/user-attachments/assets/c9459288-782e-42a5-912a-193a7053863e)
 
 
-
-
-
-
-
-
-![Screenshot (9)](https://github.com/user-attachments/assets/3a8ad738-20fc-4a0a-bad1-e429f463c9b8)
 
